@@ -5,6 +5,9 @@
     background-size: cover;
 }
 
+.text-header{
+   
+}
 
 .container{
     padding-top: 10px;
@@ -14,4 +17,19 @@
     width: 221px;
     height: 109px;
     padding-bottom: 1px;
+    border: none;
+}
+
+.img-genre{
+    display: flex;
+    justify-content: center;
+}
+
+.title-card{
+    padding-top: 30px;
+    padding-left: 500px;
+}
+
+.p-left{
+    padding-left: 17px;
 }
