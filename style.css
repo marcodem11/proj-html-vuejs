@@ -9,9 +9,6 @@
    
 }
 
-.container{
-    padding-top: 10px;
-}
 
 .card{
     width: 221px;
@@ -32,4 +29,13 @@
 
 .p-left{
     padding-left: 17px;
+}
+
+.container-card2{
+    padding-top: 400px;
+}
+
+.card-body1{
+    background-image: url(img/winter_collection_bg.jpg);
+    background-size: cover;
 }
