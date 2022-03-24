@@ -5,3 +5,13 @@
     background-size: cover;
 }
 
+
+.container{
+    padding-top: 10px;
+}
+
+.card{
+    width: 221px;
+    height: 109px;
+    padding-bottom: 1px;
+}
